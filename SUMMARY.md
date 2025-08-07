@@ -40,6 +40,8 @@
 ## 🔍 Active Directory (AD)
 
 * [Domain Controller (DC)](active-directory-ad/domain-controller-dc.md)
+* [Distinguished Name (DN)](active-directory-ad/distinguished-name-dn/README.md)
+  * [CN vs OU](active-directory-ad/distinguished-name-dn/cn-vs-ou.md)
 * [Domain Service (AD DS)](active-directory-ad/domain-service-ad-ds/README.md)
   * [Security groups](active-directory-ad/domain-service-ad-ds/security-groups.md)
   * [Organizational Units (OUs)](active-directory-ad/domain-service-ad-ds/organizational-units-ous.md)
