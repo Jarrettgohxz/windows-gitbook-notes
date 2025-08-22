@@ -51,3 +51,5 @@
   * [Kerberos](active-directory-ad/authentication-methods/kerberos.md)
   * [NetNTLM](active-directory-ad/authentication-methods/netntlm.md)
   * [LDAP](active-directory-ad/authentication-methods/ldap.md)
+* [General](active-directory-ad/general/README.md)
+  * [NTLM hash vs NetNTLM challenge-response hash](active-directory-ad/general/ntlm-hash-vs-netntlm-challenge-response-hash.md)

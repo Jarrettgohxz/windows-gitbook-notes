@@ -1,0 +1,17 @@
+# NTLM hash vs NetNTLM challenge-response hash
+
+This page attempts to clarify the differences between the NetNTLM challenge-response hash and the NTLM hash. Even though the NTLM hash is required within the [NetNTLM authentication ](https://jarrettgxz-sec.gitbook.io/penetration-testing-ethical-hacking-concepts/windows-active-directory/initial-access/authentication/netntlm)process, it can be easily confused with the NetNTLM challenge-response hash.
+
+### NTLM hash
+
+* A hash stored locally in the user's LSASS or AD database.
+* Commonly used in attacks such as **Pass-the-Hash**
+
+### NetNTLM challenge-response hash
+
+* A hash that is crafted on the fly during the [NetNTLM authentication ](https://jarrettgxz-sec.gitbook.io/penetration-testing-ethical-hacking-concepts/windows-active-directory/initial-access/authentication/netntlm)process, using the user's NTLM hash, along with a challenge from the server
+* Commonly used in attacks such as NetNTLM challenge offline cracking or challenge relay attacks
+
+
+
+Overall, the important concept to note is that the **NTLM hash** is a value required to generate a response to a server's challenge during the NetNTLM authentication process, allowing a machine to authenticate as the user stored in the **NTLM hash**. While the generated response is called the **NetNTLM challenge-response** hash.
