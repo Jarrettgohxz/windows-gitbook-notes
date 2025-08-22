@@ -6,6 +6,7 @@
 
 * [Users](general/users.md)
 * [SAM database](general/sam-database.md)
+* [Local Security Authority (LSA)](general/local-security-authority-lsa.md)
 
 ## Filesystem
 
