@@ -36,6 +36,7 @@
 ## Powershell
 
 * [Get-ChildItem](powershell/get-childitem.md)
+* [Get-Alias](powershell/get-alias.md)
 * [whoami](powershell/whoami.md)
 
 ## 🔍 Active Directory (AD)

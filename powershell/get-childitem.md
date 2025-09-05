@@ -1,5 +1,7 @@
 # Get-ChildItem
 
+{% embed url="https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-childitem?view=powershell-7.5" %}
+
 **Basic command**:
 
 ```powershell
