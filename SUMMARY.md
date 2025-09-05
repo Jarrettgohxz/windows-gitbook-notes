@@ -52,3 +52,8 @@
   * [LDAP](active-directory-ad/authentication-methods/ldap.md)
 * [General](active-directory-ad/general/README.md)
   * [NTLM hash vs NetNTLM challenge-response hash](active-directory-ad/general/ntlm-hash-vs-netntlm-challenge-response-hash.md)
+* [Active Directory Module](active-directory-ad/active-directory-module/README.md)
+  * [Get-ADObject, GetADGroup, Get-ADObject, GetADDomain, Get-ADOrganizationalUnit](active-directory-ad/active-directory-module/get-adobject-getadgroup-get-adobject-getaddomain-get-adorganizationalunit.md)
+  * [Get-ADGroupMember](active-directory-ad/active-directory-module/get-adgroupmember.md)
+  * [Add-ADGroupMember](active-directory-ad/active-directory-module/add-adgroupmember.md)
+  * [Set-ADAccountPassword](active-directory-ad/active-directory-module/set-adaccountpassword.md)
