@@ -20,18 +20,16 @@
 ## Registry
 
 * [reg](registry/reg.md)
-
-***
-
-* [Registry Editor (GUI)](registry-editor-gui.md)
+* [Registry Editor (GUI)](registry/registry-editor-gui.md)
 
 ## Access control & Permissions
 
 * [icacls](access-control-and-permissions/icacls.md)
+* [User Account Control (UAC)](access-control-and-permissions/user-account-control-uac.md)
 
-***
+## Networking
 
-* [User Account Control (UAC)](user-account-control-uac.md)
+* [Firewall](networking/firewall.md)
 
 ## Powershell
 
