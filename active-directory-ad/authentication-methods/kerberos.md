@@ -6,6 +6,8 @@ description: >-
 
 # Kerberos
 
+{% embed url="https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-kile/b4af186e-b2ff-43f9-b18e-eedb366abf13" %}
+
 The general idea is that whenever a user wants to log into a service, they will be assigned a ticket. This ticket acts as a proof of previous authentication, which allows them to utilize a service by presenting it.
 
 ### Kerberos authentication
