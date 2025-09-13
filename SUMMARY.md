@@ -7,7 +7,22 @@
 * [Users](general/users.md)
 * [SAM database](general/sam-database.md)
 * [Local Security Authority (LSA)](general/local-security-authority-lsa.md)
-* [explorer.exe](general/explorer.exe.md)
+
+## SYSTEM PROCESSES
+
+* [tasklist](system-processes/tasklist.md)
+* [explorer.exe](system-processes/explorer.exe.md)
+* [svchost.exe](system-processes/svchost.exe.md)
+* [csrss.exe](system-processes/csrss.exe.md)
+* [wininit.exe](system-processes/wininit.exe.md)
+* [services.exe](system-processes/services.exe.md)
+* [lsass.exe](system-processes/lsass.exe.md)
+* [winlogon.exe](system-processes/winlogon.exe.md)
+* [fontdrvhost.exe](system-processes/fontdrvhost.exe.md)
+* [LogonUI.exe](system-processes/logonui.exe.md)
+* [dwm.exe](system-processes/dwm.exe.md)
+* [spoolsv.exe](system-processes/spoolsv.exe.md)
+* [msdtc.exe](system-processes/msdtc.exe.md)
 
 ## Filesystem
 
