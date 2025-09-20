@@ -63,7 +63,8 @@ The general idea is that whenever a user wants to log into a service, they will 
    * The **TGT** allows the user to request for service tickets (needed to access a particular service) without passing their credentials then next time they want to access a service
    * The **Session Key** is required for access to a service too (discussed in detail below)
 
-> The **TGT** is encrypted using the **krbtgt** account's password hash, and it contains a copy of the **Session Key** as part of its contents.
+> 1) The **TGT** is encrypted using the **krbtgt** account's password hash, and it contains a copy of the **Session Key** as part of its contents.
+> 2) Every TGT is always for the service `krbtgt/<domain>`
 
 3. When the user wants to connect to a service on the network (eg. database, share), they will make a request to the **KDC** with their username, timestamp encrypted with the **Session Key,** **TGT** and a **Service Principal Name** (**SPN**).
 
