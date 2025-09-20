@@ -57,14 +57,14 @@
 
 ## 🔍 Active Directory (AD)
 
-* [Trees, Forest, Trusts](active-directory-ad/trees-forest-trusts/README.md)
-  * [Domain Admin (domain level)](active-directory-ad/trees-forest-trusts/domain-admin-domain-level.md)
-  * [Enterprise Admin (forest level)](active-directory-ad/trees-forest-trusts/enterprise-admin-forest-level.md)
+* [Trees, Forest, Trusts](active-directory-ad/trees-forest-trusts.md)
 * [Domain Controller (DC)](active-directory-ad/domain-controller-dc.md)
 * [Distinguished Name (DN)](active-directory-ad/distinguished-name-dn/README.md)
   * [CN vs OU](active-directory-ad/distinguished-name-dn/cn-vs-ou.md)
 * [Domain Service (AD DS)](active-directory-ad/domain-service-ad-ds/README.md)
-  * [Security groups](active-directory-ad/domain-service-ad-ds/security-groups.md)
+  * [Security groups](active-directory-ad/domain-service-ad-ds/security-groups/README.md)
+    * [Domain Admin (domain level)](active-directory-ad/domain-service-ad-ds/security-groups/domain-admin-domain-level.md)
+    * [Enterprise Admin (forest level)](active-directory-ad/domain-service-ad-ds/security-groups/enterprise-admin-forest-level.md)
   * [Organizational Units (OUs)](active-directory-ad/domain-service-ad-ds/organizational-units-ous.md)
   * [Security groups vs OUs](active-directory-ad/domain-service-ad-ds/security-groups-vs-ous.md)
 * [Authentication methods](active-directory-ad/authentication-methods/README.md)
