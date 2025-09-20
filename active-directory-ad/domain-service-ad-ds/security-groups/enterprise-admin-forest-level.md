@@ -9,5 +9,5 @@
 From the short description taken directly from the official documentation, we can understand the following key points:
 
 1. A user under the `Enterprise Admins` group is an enterprise admin
-2. An enterprise admin is an administrator for the forest root domain. This means that this user will be automatically added to the `Administrators` group in every domain in the forest
+2. An enterprise admin is an administrator for the forest root domain
 3. An enterprise admin has complete access to configuring all domain controllers under the forest
