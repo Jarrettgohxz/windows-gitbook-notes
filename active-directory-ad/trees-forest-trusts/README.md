@@ -17,7 +17,7 @@ Given the parent/root domain `thm.local` , we can split the management of two di
 
 * Each of the child domains will be able to separately manager their own components such as computers, users, GPOs, OUs, etc
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Forest
 
@@ -29,7 +29,7 @@ Given that a new root domain `mht.local` with different management needs (separa
 
 * Within the `mht.local` root domain, there exists the `eu.mht.local` and `asia.mht.local` child domains
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 
 

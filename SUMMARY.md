@@ -57,7 +57,9 @@
 
 ## 🔍 Active Directory (AD)
 
-* [Trees, Forest, Trusts](active-directory-ad/trees-forest-trusts.md)
+* [Trees, Forest, Trusts](active-directory-ad/trees-forest-trusts/README.md)
+  * [Domain Admin (domain level)](active-directory-ad/trees-forest-trusts/domain-admin-domain-level.md)
+  * [Enterprise Admin (forest level)](active-directory-ad/trees-forest-trusts/enterprise-admin-forest-level.md)
 * [Domain Controller (DC)](active-directory-ad/domain-controller-dc.md)
 * [Distinguished Name (DN)](active-directory-ad/distinguished-name-dn/README.md)
   * [CN vs OU](active-directory-ad/distinguished-name-dn/cn-vs-ou.md)
