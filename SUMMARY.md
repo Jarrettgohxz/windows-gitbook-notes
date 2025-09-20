@@ -57,6 +57,7 @@
 
 ## 🔍 Active Directory (AD)
 
+* [Trees, Forest, Trusts](active-directory-ad/trees-forest-trusts.md)
 * [Domain Controller (DC)](active-directory-ad/domain-controller-dc.md)
 * [Distinguished Name (DN)](active-directory-ad/distinguished-name-dn/README.md)
   * [CN vs OU](active-directory-ad/distinguished-name-dn/cn-vs-ou.md)
@@ -75,3 +76,4 @@
   * [Get-ADGroupMember](active-directory-ad/active-directory-module/get-adgroupmember.md)
   * [Add-ADGroupMember](active-directory-ad/active-directory-module/add-adgroupmember.md)
   * [Set-ADAccountPassword](active-directory-ad/active-directory-module/set-adaccountpassword.md)
+  * [Get-ADForest](active-directory-ad/active-directory-module/get-adforest.md)
