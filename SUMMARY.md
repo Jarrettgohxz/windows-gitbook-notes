@@ -58,6 +58,7 @@
 ## 🔍 Active Directory (AD)
 
 * [Trees, Forest, Trusts](active-directory-ad/trees-forest-trusts.md)
+* [Tiering](active-directory-ad/tiering.md)
 * [Domain Controller (DC)](active-directory-ad/domain-controller-dc.md)
 * [Distinguished Name (DN)](active-directory-ad/distinguished-name-dn/README.md)
   * [CN vs OU](active-directory-ad/distinguished-name-dn/cn-vs-ou.md)
