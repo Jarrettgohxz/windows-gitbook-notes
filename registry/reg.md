@@ -1,14 +1,16 @@
-# reg
+# reg.exe
 
-**query**
+### query
 
 ```powershell
 C:\> reg query [registry_path]
 ```
 
-The command below saves the content of the registry key (`HKLM\SYSTEM`) to a file named `system.hive` in the `C:\users\jarrett` directory.
+### save
 
-**save**
+The `reg save` command can be used to save the content of the registry key (`HKLM\SYSTEM`) to a file named `system.hive` in the `C:\users\jarrett` directory.
+
+**Example**
 
 `HKLM\system` refers to the SYSTEM registry hive, which contains system-wide configuration settings (under `HKEY_LOCAL_MACHINE\SYSTEM`).
 
@@ -35,3 +37,8 @@ SeBackupPrivilege             Back up files and directories  ...
 SeRestorePrivilege            Restore files and directories  ...
 ...
 ```
+
+
+
+
+

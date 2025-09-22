@@ -36,7 +36,8 @@
 
 ## Registry
 
-* [reg](registry/reg.md)
+* [Overview](registry/overview.md)
+* [reg.exe](registry/reg.md)
 * [Registry Editor (GUI)](registry/registry-editor-gui.md)
 
 ## Access control & Permissions
