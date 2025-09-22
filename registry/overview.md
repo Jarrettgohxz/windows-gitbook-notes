@@ -2,11 +2,17 @@
 
 ### Resources
 
-1. Windows registry hive
+1. Further readings
+
+{% embed url="https://learn.microsoft.com/en-us/windows/win32/sysinfo/structure-of-the-registry" %}
+
+{% embed url="https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc781906(v=ws.10)" %}
+
+2. Windows registry hive
 
 {% embed url="https://learn.microsoft.com/en-us/windows/win32/sysinfo/registry-hives" %}
 
-2. Advanced information
+3. Advanced information
 
 {% embed url="https://learn.microsoft.com/en-us/troubleshoot/windows-server/performance/windows-registry-advanced-users" %}
 
