@@ -24,6 +24,8 @@ The supporting files (that contains backup of its data) for all hives are stored
 
 The following table displays the mapping of the supporting file locations to each registry hive:
 
+> Note that some of the values displayed under the _supporting files_ may be outdated on modern Windows versions.
+
 | Registry hive                     | Supporting files                                                       |
 | --------------------------------- | ---------------------------------------------------------------------- |
 | **HKEY\_LOCAL\_MACHINE\SAM**      | Sam, Sam.log, Sam.sav                                                  |
