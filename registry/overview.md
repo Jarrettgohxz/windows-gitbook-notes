@@ -32,15 +32,15 @@ The following table displays the mapping of the supporting file locations to eac
 
 > Note that some of the values displayed under the _supporting files_ may be outdated on modern Windows versions.
 
-| Registry hive                     | Supporting files                                                       |
-| --------------------------------- | ---------------------------------------------------------------------- |
-| **HKEY\_LOCAL\_MACHINE\SAM**      | Sam, Sam.log, Sam.sav                                                  |
-| **HKEY\_LOCAL\_MACHINE\Security** | Security, Security.log, Security.sav                                   |
-| **HKEY\_LOCAL\_MACHINE\Software** | Software, Software.log, Software.sav                                   |
-| **HKEY\_LOCAL\_MACHINE\System**   | System, System.alt, System.log, System.sav                             |
-| **HKEY\_CURRENT\_CONFIG**         | System, System.alt, System.log, System.sav, Ntuser.dat, Ntuser.dat.log |
-| **HKEY\_USERS\DEFAULT**           | Default, Default.log, Default.sav                                      |
-| **HKEY\_CURRENT\_USER**           | Ntuser.dat, Ntuser.dat.log                                             |
+| Registry hive                                     | Supporting files                                                       |
+| ------------------------------------------------- | ---------------------------------------------------------------------- |
+| **HKEY\_LOCAL\_MACHINE\SAM (HKLM\SAM)**           | Sam, Sam.log, Sam.sav                                                  |
+| **HKEY\_LOCAL\_MACHINE\Security (HKLM\Security)** | Security, Security.log, Security.sav                                   |
+| **HKEY\_LOCAL\_MACHINE\Software (HKLM\Software)** | Software, Software.log, Software.sav                                   |
+| **HKEY\_LOCAL\_MACHINE\System (HKLM\System)**     | System, System.alt, System.log, System.sav                             |
+| **HKEY\_CURRENT\_CONFIG**                         | System, System.alt, System.log, System.sav, Ntuser.dat, Ntuser.dat.log |
+| **HKEY\_USERS\DEFAULT (HKU\Default)**             | Default, Default.log, Default.sav                                      |
+| **HKEY\_CURRENT\_USER (HKCU)**                    | Ntuser.dat, Ntuser.dat.log                                             |
 
 #### Retrieving information for a particular hive
 
