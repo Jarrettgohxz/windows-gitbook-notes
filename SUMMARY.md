@@ -7,6 +7,7 @@
 * [Users](general/users.md)
 * [SAM database](general/sam-database.md)
 * [Local Security Authority (LSA)](general/local-security-authority-lsa.md)
+* [Environment variables](general/environment-variables.md)
 
 ## SYSTEM PROCESSES
 
@@ -33,6 +34,10 @@
 ## Services
 
 * [sc](services/sc.md)
+* [PowerShell](services/powershell/README.md)
+  * [Get-Service](services/powershell/get-service.md)
+  * [Start-Service](services/powershell/start-service.md)
+  * [Restart-Service](services/powershell/restart-service.md)
 
 ## Registry
 
