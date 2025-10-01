@@ -20,3 +20,7 @@ Alias           gwmi -> Get-WmiObject
 
 * `-Definition` : Gets the aliases for the specified item. Enter the name of a cmdlet, function, script, file, or executable file.
 
+### Other useful flags
+
+1. `-Definition`: to perform"reverse alias search"
+

@@ -54,6 +54,8 @@
 * [Get-ChildItem](powershell/get-childitem.md)
 * [Get-Alias](powershell/get-alias.md)
 * [Get-WmiObject](powershell/get-wmiobject.md)
+* [Select-Object (select)](powershell/select-object-select.md)
+* [Select-String (sls)](powershell/select-string-sls.md)
 * [whoami](powershell/whoami.md)
 
 ## 🔍 Active Directory (AD)
