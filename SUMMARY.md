@@ -76,6 +76,7 @@
     * [Enterprise Admin (forest level)](active-directory-ad/domain-service-ad-ds/security-groups/enterprise-admin-forest-level.md)
   * [Organizational Units (OUs)](active-directory-ad/domain-service-ad-ds/organizational-units-ous.md)
   * [Security groups vs OUs](active-directory-ad/domain-service-ad-ds/security-groups-vs-ous.md)
+  * [ntds.dit](active-directory-ad/domain-service-ad-ds/ntds.dit.md)
 * [Authentication methods](active-directory-ad/authentication-methods/README.md)
   * [Kerberos](active-directory-ad/authentication-methods/kerberos.md)
   * [NetNTLM](active-directory-ad/authentication-methods/netntlm.md)
