@@ -44,7 +44,20 @@ b) _Services_
 
 Eg. The machine named DC01 will have an account called `DC01$`
 
+The machine account name is identified by the `$Env:ComputerName` environment variable, appended with a `$` .
 
+We can use the following command to retrieve the properties of the machine account:
+
+> Let's assume that the machine account name is `MACH`
+
+{% code overflow="wrap" %}
+```powershell
+PS> Get-ADComputer -Identity $Env:ComputerName -Properties *
+...
+Name           : MACH
+SamAccountName : MACH$ # notice the $ at the end
+```
+{% endcode %}
 {% endstep %}
 {% endstepper %}
 
