@@ -8,6 +8,7 @@
 * [SAM database](general/sam-database.md)
 * [Local Security Authority (LSA)](general/local-security-authority-lsa.md)
 * [Environment variables](general/environment-variables.md)
+* [WMI Query Language (WQL)](general/wmi-query-language-wql.md)
 
 ## SYSTEM PROCESSES
 
@@ -38,6 +39,7 @@
   * [Get-Service](services/powershell/get-service.md)
   * [Start-Service](services/powershell/start-service.md)
   * [Restart-Service](services/powershell/restart-service.md)
+  * [Win32\_Service](services/powershell/win32_service.md)
 
 ## Registry
 
